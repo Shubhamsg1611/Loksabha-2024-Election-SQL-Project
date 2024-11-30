@@ -1,6 +1,5 @@
 # Loksabha-2024-Election-SQL-Project
 ![]()
-
 ### Summary: 
 
 The datasets provide a wealth of information about election dynamics, including party performance, voter behavior, and regional trends. Key takeaways include:
